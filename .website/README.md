@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - action
+  - roguelike
 directors_cut: https://piesku.com/backcountry/play/
 post: https://piesku.com/backcountry/
 # See github.com/js13kGames/hello-world for supported frontmatter
